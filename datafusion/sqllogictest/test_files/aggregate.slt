@@ -1302,7 +1302,6 @@ SELECT COUNT(2) FROM aggregate_test_100
 ----
 100
 
-
 # csv_query_approx_count
 # FIX: https://github.com/apache/datafusion/issues/3353
 # query II
